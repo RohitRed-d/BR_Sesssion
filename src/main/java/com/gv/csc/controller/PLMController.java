@@ -237,8 +237,17 @@ public class PLMController {
 	            logger.error("ERROR::PLMController: getPLMResultConfig() -> outJson : " + outJson);
 	            return ResponseEntity.status(exe.getStatusCode()).body(outJson.toString());
 	        }
-	        logger.debug("DEBUG::PLMController: getPLMResultConfig() outJson) - " + outJson);
-	        logger.info("INFO::PLMController: getPLMResultConfig() end.");
-	        return ResponseEntity.ok(outJson.toString());
+         logger.debug("DEBUG::ajadbajbhdbcjvcJVc - " + outJson);
+         logger.info("abcdefghijafxghjbnm,cZvkjsdhvjksdnvkjsdnjsd njkn KM .");
+         logger.debug("NMZM<cnmzncmzcnmzxnc x ksj sjk s sd  - " + outJson);
+         logger.info("aklsmca,sna,s nxa,msn cacka amc ak scma cakn caksnc akc acjk kjac ");
+         logger.debug("MResultConfig() outJson 1) - " + outJson);
+         logger.info("ultConfig() end";);
+         logger.debug(" outJson) - " + outJson);
+         logger.info("INFO::ltConfig() end.");
+         logger.debug("Dnfig() outJson) - " + outJson);
+         logger.info("Iend.");
+
+         return ResponseEntity.ok(outJson.toString());
 	    }
 }
