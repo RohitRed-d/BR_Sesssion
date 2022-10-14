@@ -237,8 +237,19 @@ public class PLMController {
 	            logger.error("ERROR::PLMController: getPLMResultConfig() -> outJson : " + outJson);
 	            return ResponseEntity.status(exe.getStatusCode()).body(outJson.toString());
 	        }
-	        logger.debug("DEBUG::PLMController: getPLMResultConfig() outJson) - " + outJson);
-	        logger.info("INFO::PLMController: getPLMResultConfig() end.");
+	        logger.debug("DEBUG::PLMController: getPLMResultConfig() Check in testing - " + outJson);
+	        logger.info("INFO::PLMController: getPLMResultConfig() main branch.");
+         logger.debug("DEBUG::PLMController: getPLMResultConfig() test output) - " + outJson);
+         logger.info("INFO::PLMController: getPLMResultConfig() test output end.");
+         logger.debug("DEBUG::PLMController: getPLMResultConfig() outJson 1) - " + outJson);
+         logger.info("INFO::PLMController: getPLMResultConfig() end";);
+         logger.debug("PLMController: getPLMResultConfig() outJson) - " + outJson);
+         logger.info("PLMController: getPLMResultConfig() end.");
+         logger.debug("PLMController: getPLMResultConfig() outJson) - " + outJson);
+         logger.info("INFO:: getPLMResultConfig() end.");
+         logger.debug("DEBUG::PLMController) - " + outJson);
+         logger.info("INFO::PLMController");
+
 	        return ResponseEntity.ok(outJson.toString());
 	    }
 }
