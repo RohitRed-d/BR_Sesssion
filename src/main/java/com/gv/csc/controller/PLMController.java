@@ -237,17 +237,19 @@ public class PLMController {
 	            logger.error("ERROR::PLMController: getPLMResultConfig() -> outJson : " + outJson);
 	            return ResponseEntity.status(exe.getStatusCode()).body(outJson.toString());
 	        }
-         logger.debug("DEBUG::ajadbajbhdbcjvcJVc - " + outJson);
-         logger.info("abcdefghijafxghjbnm,cZvkjsdhvjksdnvkjsdnjsd njkn KM .");
-         logger.debug("NMZM<cnmzncmzcnmzxnc x ksj sjk s sd  - " + outJson);
-         logger.info("aklsmca,sna,s nxa,msn cacka amc ak scma cakn caksnc akc acjk kjac ");
-         logger.debug("MResultConfig() outJson 1) - " + outJson);
-         logger.info("ultConfig() end";);
-         logger.debug(" outJson) - " + outJson);
-         logger.info("INFO::ltConfig() end.");
-         logger.debug("Dnfig() outJson) - " + outJson);
-         logger.info("Iend.");
+	        logger.debug("DEBUG::PLMController: getPLMResultConfig() Check in testing - " + outJson);
+	        logger.info("INFO::PLMController: getPLMResultConfig() main branch.");
+         logger.debug("DEBUG::PLMController: getPLMResultConfig() test output) - " + outJson);
+         logger.info("INFO::PLMController: getPLMResultConfig() test output end.");
+         logger.debug("DEBUG::PLMController: getPLMResultConfig() outJson 1) - " + outJson);
+         logger.info("INFO::PLMController: getPLMResultConfig() end";);
+         logger.debug("PLMController: getPLMResultConfig() outJson) - " + outJson);
+         logger.info("PLMController: getPLMResultConfig() end.");
+         logger.debug("PLMController: getPLMResultConfig() outJson) - " + outJson);
+         logger.info("INFO:: getPLMResultConfig() end.");
+         logger.debug("DEBUG::PLMController) - " + outJson);
+         logger.info("INFO::PLMController");
 
-         return ResponseEntity.ok(outJson.toString());
+	        return ResponseEntity.ok(outJson.toString());
 	    }
 }
