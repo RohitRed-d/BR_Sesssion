@@ -1,0 +1,67 @@
+{
+  "resultFields": [
+    {
+      "fieldName": "item_no",
+      "displayName": "Style No",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "item_name",
+      "displayName": "Style Name",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "discription",
+      "displayName": "Description",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "brand",
+      "displayName": "Brand",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "dept",
+      "displayName": "Department",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "season",
+      "displayName": "Season",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "division",
+      "displayName": "Division",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "commodity",
+      "displayName": "Commodity",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "buy_program_no",
+      "displayName": "Buy Program",
+      "fieldType": "text",
+      "isMandatory": true,
+      "fieldValues": []
+    }
+  ]
+}

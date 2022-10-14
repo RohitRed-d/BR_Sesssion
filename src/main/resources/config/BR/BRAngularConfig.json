@@ -1,0 +1,14 @@
+{
+  "plmType": "BR",
+  "angularAuth": {
+    "authType": "basic"
+  },
+  "features": [
+    {
+      "featureName": "Clo-set to PLM",
+      "iconUrl": "bi-link",
+      "label": "Clo-set to PLM",
+      "path": "clo-plm"
+    }
+  ]
+}

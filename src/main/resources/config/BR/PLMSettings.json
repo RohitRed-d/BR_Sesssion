@@ -1,0 +1,31 @@
+{
+  "PRODUCTION_SERVER": {
+    "cloViseVersion": "3.70.101",
+    "companyApiKey": "0NkG0OpmsQsfFST2vr/jzgxdHvriMlTL45KWRGuDiIs=",
+    "companyName": "BambooRose",
+    "cvLicenceURL": "https://api.clo3d.com",
+    "plmClientVersion": "2022R1",
+    "plmServerUrl": "https://azure-ts.bamboorose.com/qa2022r1"
+  },
+  "QA_SERVER": {
+    "cloViseVersion": "",
+    "companyApiKey": "",
+    "companyName": "",
+    "cvLicenceURL": "https://api.clo3d.com",
+    "plmClientVersion": "",
+    "plmServerUrl": "https://qaazure.bamboorose.com/qa2021r1"
+  },
+  "DEV_SERVER": {
+    "cloViseVersion": "",
+    "companyApiKey": "",
+    "companyName": "",
+    "cvLicenceURL": "https://api.clo3d.com",
+    "plmClientVersion": "",
+    "plmServerUrl": "https://qaazure.bamboorose.com/precore"
+  },
+  "availablePLMServers": [
+    "PRODUCTION_SERVER",
+    "QA_SERVER",
+    "DEV_SERVER"
+  ]
+}

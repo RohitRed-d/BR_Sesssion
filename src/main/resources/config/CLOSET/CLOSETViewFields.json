@@ -1,0 +1,48 @@
+{
+"CLOSETDisplayAttributes": [
+	{
+      "fieldName": "thumbnailPath",
+      "displayName": "Thumbnail",
+      "fieldType": "jpg",
+      "isMandatory": false,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "styleNumber",
+      "displayName": "Style Number",
+      "fieldType": "text",
+      "isMandatory": false,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "externalStyleId",
+      "displayName": "External Style Id",
+      "fieldType": "jpg",
+      "isMandatory": false,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "fileName",
+      "displayName": "File Name",
+      "fieldType": "jpg",
+      "isMandatory": false,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "creatorName",
+      "displayName": "Creator Name",
+      "fieldType": "text",
+      "isMandatory": false,
+      "fieldValues": []
+    },
+    {
+      "fieldName": "workflowName",
+      "displayName": "Status",
+      "fieldType": "text",
+      "isMandatory": false,
+      "fieldValues": []
+    }
+  ],
+  "indexKey": "styleId",
+  "imageKey": "thumbnailPath"
+}

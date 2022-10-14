@@ -1,0 +1,22 @@
+{
+  "baseUrl": "https://3ddemo.centricsoftware.com/csi-requesthandler/api/v2",
+  "PLMSearchOptions": [
+    {
+      "fieldName": "active"
+    },
+    {
+      "fieldName": "uni_assortment_url"
+    },
+    {
+      "fieldName": "uni_cnt_dropped_colorway"
+    },
+    {
+      "fieldName": "uni_code"
+    },
+    {
+      "fieldName": "unicodegen"
+    }
+  ],
+  "indexKey": "id",
+  "imageKey": ""
+}
